@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Crunchbase companies</h2>
 
-![Crunchbase dataset header](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/crunchbase">
+   <img src="https://github.com/luminati-io/crunchbase-dataset-samples/blob/main/crunchbase-datasets.png" alt="crunchbase datasets" />
+</a>
 
 A Crunchbase dataset sample of over 1000 companies. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -42,7 +44,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 *   Crunchbase largest companies
 *   Crunchbase newest companies
 
-![Crunchbase dataset visual](https://github.com/luminati-io/Crunchbase-dataset-samples/blob/main/crunchbase-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/crunchbase">
+   <img src="https://github.com/luminati-io/crunchbase-dataset-samples/blob/main/dataset-promotions.png" alt="crunchbase media datasets" />
+</a>
 
 <h2>What are the Crunchbase datasets use cases?</h2>
 
